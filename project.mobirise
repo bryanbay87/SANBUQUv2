@@ -46,10 +46,10 @@
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/80c249-5b3a3d83f9cc488d8dd396199b80e103mv2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -71,12 +71,14 @@
             ".mbr-section-title": {
               "color": "#000000",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "center"
             },
             ".mbr-section-lead": {
               "color": "#000000",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "center"
             }
           }
         },
@@ -187,85 +189,158 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol2-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol2-2000x1466-800x586.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol17-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol17-2000x1466-800x586.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol32-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol32-2000x1466-800x586.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa16-1999x769.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa16-1999x769-800x307.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/page-1-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-1-2000x1124-800x449.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9252c8a317b64aa7bdd15c4230ad3837mv2-d-8648-5766-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9252c8a317b64aa7bdd15c4230ad3837mv2-d-8648-5766-s-4-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4423-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4423-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4385-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4385-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1411x2117.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1411x2117-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4473200e76524cb9af8d8f5dfa1c94femv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4473200e76524cb9af8d8f5dfa1c94femv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f9594cf632c44beb8e47966cc6c772b9mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f9594cf632c44beb8e47966cc6c772b9mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8b20c5f8bef444899b3d919b69abae87mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8b20c5f8bef444899b3d919b69abae87mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-6ef0d4a4fadc4122993f36ce5dc4918bmv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-6ef0d4a4fadc4122993f36ce5dc4918bmv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-7f7b52f62d5c467daa26b79cf3d70012mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-7f7b52f62d5c467daa26b79cf3d70012mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -473,11 +548,11 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: wengbaysg@gmail.com <br>\nPhone: +6012 - 351 6616<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home&nbsp;</a></li><li><a href=\"page1.html\">Portfolio</a></li><li><a href=\"page3.html\">Blog&nbsp;</a></li><li><a href=\"page2.html\">Contact Us</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "bryan_bay@hotmail.com",
+            "action": "wengbaysg@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -493,7 +568,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -507,7 +582,13 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-9"
+          "_anchor": "contacts4-9",
+          "_styles": {
+            "UL": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -576,92 +657,1709 @@
             "filter": true,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Pre Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f135db1b58be4c348a94f501be1894c6mv2-d-3690-4970-s-4-1999x2693.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f135db1b58be4c348a94f501be1894c6mv2-d-3690-4970-s-4-1999x2693-800x1077.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Pre Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/page-1-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-1-2000x1124-800x449.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Pre Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/page-9-1999x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-9-1999x1124-800x449.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome, Beautiful",
+                "tags": "Pre Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/page-10-2000x1100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-10-2000x1100-800x440.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Pre Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/page-13-2000x1122.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-13-2000x1122-800x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/page-16-1999x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-16-1999x1124-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/page-19-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-19-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/page-30-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-30-2000x1124-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/page-22-1999x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-22-1999x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/page-28-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/page-28-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa4-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa4-2000x1545-800x618.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa7-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa7-2000x1545-800x618.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa17-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-8.5-x11-fa17-2000x1545-800x618.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa16-1999x769.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa16-1999x769-800x307.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa32-1999x1538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wedding-album-10-x13-fa32-1999x1538-800x615.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol17-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol17-2000x1466-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-204c57222a574a48a6c3beb8587acebfmv2-d-9000-3300-s-4-2000x733.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-204c57222a574a48a6c3beb8587acebfmv2-d-9000-3300-s-4-2000x733-800x293.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol2-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol2-2000x1466-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol11-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol11-2000x1466-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol21-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol21-2000x1466-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol32-2000x1466.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photobook-11-x15-ol32-2000x1466-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8a487bf28c6a4679a90b9bf2d1406b99mv2-d-5256-7112-s-4-2000x2706.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8a487bf28c6a4679a90b9bf2d1406b99mv2-d-5256-7112-s-4-2000x2706-800x1082.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-46e54e0dfc684d55b8c9357696915f52mv2-d-8688-5792-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-46e54e0dfc684d55b8c9357696915f52mv2-d-8688-5792-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9252c8a317b64aa7bdd15c4230ad3837mv2-d-8648-5766-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9252c8a317b64aa7bdd15c4230ad3837mv2-d-8648-5766-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-6513277190da494db5faa509b574ace8mv2-d-5789-8435-s-4-1999x2914.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-6513277190da494db5faa509b574ace8mv2-d-5789-8435-s-4-1999x2914-800x1166.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/462a1537-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/462a1537-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/462a1581-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/462a1581-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/462a1599-1-2000x2999.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/462a1599-1-2000x2999-800x1199.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/462a1746-1999x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/462a1746-1999x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4385-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4385-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4423-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160129mj-pre-wedding4423-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1411x2117.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1411x2117-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1459x2189.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1459x2189-799x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/462a6577-2000x2999.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/462a6577-2000x2999-800x1199.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8b20c5f8bef444899b3d919b69abae87mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8b20c5f8bef444899b3d919b69abae87mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4717f25d692448afb352e2866cc3aa14mv2-d-4000-6000-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4717f25d692448afb352e2866cc3aa14mv2-d-4000-6000-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-45616c5597bc4ad5a6c931fde56110e8mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-45616c5597bc4ad5a6c931fde56110e8mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4473200e76524cb9af8d8f5dfa1c94femv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4473200e76524cb9af8d8f5dfa1c94femv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-e4d8035d029a44a8befd37d346d37d7emv2-d-4000-6000-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-e4d8035d029a44a8befd37d346d37d7emv2-d-4000-6000-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-ecbb2303a8504d0083c3ebff711f2487mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-ecbb2303a8504d0083c3ebff711f2487mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f9594cf632c44beb8e47966cc6c772b9mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f9594cf632c44beb8e47966cc6c772b9mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-6b2804b7ab9e42be98b24da9d6f3020fmv2-d-3966-4956-s-4-2000x2499.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-6b2804b7ab9e42be98b24da9d6f3020fmv2-d-3966-4956-s-4-2000x2499-800x999.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5a7749c545034b36aed0245a3bbd538fmv2-d-4000-6000-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5a7749c545034b36aed0245a3bbd538fmv2-d-4000-6000-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-40e91f9ac72044668329f14f72c3e326mv2-d-4000-6000-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-40e91f9ac72044668329f14f72c3e326mv2-d-4000-6000-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-42b0d82d1a774c2f9736e8889de98edamv2-d-5983-3988-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-42b0d82d1a774c2f9736e8889de98edamv2-d-5983-3988-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-098e24faffe347af872804d9d1b969demv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-098e24faffe347af872804d9d1b969demv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-99c021636ad541b6a48077d9c8769a26mv2-d-3222-5078-s-4-2000x3152.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-99c021636ad541b6a48077d9c8769a26mv2-d-3222-5078-s-4-2000x3152-800x1260.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5075cbb1af724b1ba167e744660a5ccbmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5075cbb1af724b1ba167e744660a5ccbmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-7846facf58b24aabb05f6d6d35c3094amv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-7846facf58b24aabb05f6d6d35c3094amv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-65755f7e6d3c4d7f951b4ca3ee0c10afmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-65755f7e6d3c4d7f951b4ca3ee0c10afmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-a4cb416951e449429fd87ac744ba2d75mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-a4cb416951e449429fd87ac744ba2d75mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b4a4aebf72614f66a03415cdebf78bafmv2-d-6254-4000-s-4-2000x1279.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b4a4aebf72614f66a03415cdebf78bafmv2-d-6254-4000-s-4-2000x1279-800x511.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-c4af62d3c3c742a8ab39ea05f024f7dbmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-c4af62d3c3c742a8ab39ea05f024f7dbmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-df62f1edb1464a97ac5d1baae07d9d8emv2-d-5621-3326-s-4-2000x1183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-df62f1edb1464a97ac5d1baae07d9d8emv2-d-5621-3326-s-4-2000x1183-800x473.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0e158e318f6446b489831c328c63fda6mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0e158e318f6446b489831c328c63fda6mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-7f7b52f62d5c467daa26b79cf3d70012mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-7f7b52f62d5c467daa26b79cf3d70012mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8e0dedf9b4b54d9eb5b994c7f28008abmv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8e0dedf9b4b54d9eb5b994c7f28008abmv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5064ff41bfc2490fb04acffdccfd3b79mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5064ff41bfc2490fb04acffdccfd3b79mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5559a1afa6304fc684a7e8dc6d5d0955mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5559a1afa6304fc684a7e8dc6d5d0955mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-95913a56a38a48da8534ad0003ecb532mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-95913a56a38a48da8534ad0003ecb532mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-259153fbd91f4e06beb33cf2440e3c50mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-259153fbd91f4e06beb33cf2440e3c50mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b725887605074d84a45eeca31e09ff13mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b725887605074d84a45eeca31e09ff13mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f3f1464be71f4111b846cfbeda04c6c9mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f3f1464be71f4111b846cfbeda04c6c9mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre Wedding",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f761cacd165d4e749fec59dd04569366mv2-d-5689-3793-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f761cacd165d4e749fec59dd04569366mv2-d-5689-3793-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-61f6e2b9d40049fc862169dbe53c64c4mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-61f6e2b9d40049fc862169dbe53c64c4mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5fb27ccac5df44a3aa012d08191a263cmv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5fb27ccac5df44a3aa012d08191a263cmv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-d716b7242c66495694ecf44c369dce2emv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-d716b7242c66495694ecf44c369dce2emv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-3146e4a19e904c25b51a8064e1308094mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-3146e4a19e904c25b51a8064e1308094mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9bae2484948a480b94e6a9755706e9e1mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9bae2484948a480b94e6a9755706e9e1mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b381e1d7794c442cb65b9d52f95f2d42mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b381e1d7794c442cb65b9d52f95f2d42mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-e53a80d02ea54fc89755b4833eb967b3mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-e53a80d02ea54fc89755b4833eb967b3mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-eb48c65b359c4873a155cfc0ce8a891dmv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-eb48c65b359c4873a155cfc0ce8a891dmv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f72d137718314ab685879372627fbb0bmv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f72d137718314ab685879372627fbb0bmv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-a30f36875f3443a1aad4d8a3826b06camv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-a30f36875f3443a1aad4d8a3826b06camv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0e5a56639c594f20b46ff76c899da1cemv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0e5a56639c594f20b46ff76c899da1cemv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4e9dc5d4ffcf4b68b323803c4bc839b9mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4e9dc5d4ffcf4b68b323803c4bc839b9mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-50fb37d0cfd540d298d6c8abffda0a43mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-50fb37d0cfd540d298d6c8abffda0a43mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-92f0507c192b41518158b83b7b31a4b2mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-92f0507c192b41518158b83b7b31a4b2mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-255b1269998b4418a053897af46a451cmv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-255b1269998b4418a053897af46a451cmv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-439ccea9ff5248f4ae55b67247271eccmv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-439ccea9ff5248f4ae55b67247271eccmv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0539e8aabde146b78b1656e79a4ea892mv2-d-1824-2736-s-1824x2736.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0539e8aabde146b78b1656e79a4ea892mv2-d-1824-2736-s-1824x2736-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-992ec5ae94c34abf997c670f1d886670mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-992ec5ae94c34abf997c670f1d886670mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-1989bcc533d34da6b514c52f256ccaaamv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-1989bcc533d34da6b514c52f256ccaaamv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8320e2bb01314776b2fc553a541abc82mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8320e2bb01314776b2fc553a541abc82mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-abf9b3716e9f4e5fa98dd8074a6ce4a1mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-abf9b3716e9f4e5fa98dd8074a6ce4a1mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-a75e99d4d7cf4d45a13b1c5cea0b53d2mv2-1500x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-a75e99d4d7cf4d45a13b1c5cea0b53d2mv2-1500x1125-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-1bf53abc54dc4d86a0b2e9886ad95f87mv2-d-5180-3453-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-1bf53abc54dc4d86a0b2e9886ad95f87mv2-d-5180-3453-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4c8addecca04456d8c2d94a0043c6d83mv2-d-3840-5760-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4c8addecca04456d8c2d94a0043c6d83mv2-d-3840-5760-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5d460c68c38e41faab4d7e9efde5c291mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5d460c68c38e41faab4d7e9efde5c291mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8d3fd8351ada4b96904f2ad1d7ade29bmv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8d3fd8351ada4b96904f2ad1d7ade29bmv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-09c99f71921f43fba800f4a525467f85mv2-d-3570-5266-s-4-2000x2950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-09c99f71921f43fba800f4a525467f85mv2-d-3570-5266-s-4-2000x2950-800x1180.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-19a5c623a1c546e29f05c873efc79d25mv2-d-1802-2424-s-1802x2424.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-19a5c623a1c546e29f05c873efc79d25mv2-d-1802-2424-s-1802x2424-800x1076.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-25a644fbe094429e9ced8ad3ac6ca45dmv2-d-5632-2939-s-4-2000x1043.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-25a644fbe094429e9ced8ad3ac6ca45dmv2-d-5632-2939-s-4-2000x1043-800x417.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-820a9f64c6f745a09ba3bf5803366326mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-820a9f64c6f745a09ba3bf5803366326mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-957cc07b54db42469e2eda976ac1b55bmv2-d-5760-3840-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-957cc07b54db42469e2eda976ac1b55bmv2-d-5760-3840-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4467d2fbb23f45bba471a18912b91b3amv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4467d2fbb23f45bba471a18912b91b3amv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-950118aaff1f460aaf310bbc12473fb9mv2-d-5688-2868-s-4-2000x1008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-950118aaff1f460aaf310bbc12473fb9mv2-d-5688-2868-s-4-2000x1008-800x403.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b3fe7ea451fd40ccabe26afc2ed69e8amv2-d-5760-3840-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b3fe7ea451fd40ccabe26afc2ed69e8amv2-d-5760-3840-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b340984205ca424c9996015d98d2c4eemv2-d-2695-1533-s-1999x1137.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b340984205ca424c9996015d98d2c4eemv2-d-2695-1533-s-1999x1137-800x455.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f9916e86fc444fffa9fd0ed83422d71fmv2-d-4857-2687-s-4-2000x1106.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f9916e86fc444fffa9fd0ed83422d71fmv2-d-4857-2687-s-4-2000x1106-800x442.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0f348fc79dfa4ecf944ce87c51ad5a70mv2-d-1949-1416-s-1949x1416.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0f348fc79dfa4ecf944ce87c51ad5a70mv2-d-1949-1416-s-1949x1416-800x581.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-1fb24c224c7c420f89f49d4ca6c4e4f0mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-1fb24c224c7c420f89f49d4ca6c4e4f0mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-6d995994086c4d2398c1932751261e12mv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-6d995994086c4d2398c1932751261e12mv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-6ea64884970f4453832a4974a2c26212mv2-d-3000-2000-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-6ea64884970f4453832a4974a2c26212mv2-d-3000-2000-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9cf80eec08c0445d9edd4832c8046336mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9cf80eec08c0445d9edd4832c8046336mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9ddc3bb9ec184a8c84684fb65d90740amv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9ddc3bb9ec184a8c84684fb65d90740amv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-20e55820f1274449a0e0d4377b97cd92mv2-d-3000-2000-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-20e55820f1274449a0e0d4377b97cd92mv2-d-3000-2000-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-21f847057e4d4b1b903bfe7df528fc3amv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-21f847057e4d4b1b903bfe7df528fc3amv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-23a38452bbef40e7b3103dd12ec66664mv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-23a38452bbef40e7b3103dd12ec66664mv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-35ae45607718442a9d3ad7c44596f289mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-35ae45607718442a9d3ad7c44596f289mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-42e3e837f9c648d29cb41cfff090ccbfmv2-d-2000-3000-s-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-42e3e837f9c648d29cb41cfff090ccbfmv2-d-2000-3000-s-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-1024deffed344be098dc081ac041e8b9mv2-d-1877-2816-s-1877x2816.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-1024deffed344be098dc081ac041e8b9mv2-d-1877-2816-s-1877x2816-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b05def905b5c4a5cb1bdf21db5905fc8mv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b05def905b5c4a5cb1bdf21db5905fc8mv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-ad0f72e16c5348699cef140ccc04207fmv2-d-3000-2000-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-ad0f72e16c5348699cef140ccc04207fmv2-d-3000-2000-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b9092137914343a3a8372b4df28423b4mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b9092137914343a3a8372b4df28423b4mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-ca0f018527404ec8810d2df1b7e0dc5fmv2-d-2953-1767-s-2000x1196.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-ca0f018527404ec8810d2df1b7e0dc5fmv2-d-2953-1767-s-2000x1196-800x478.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f9dc0bc5748541d3bcc1fb195693b490mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f9dc0bc5748541d3bcc1fb195693b490mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-fd6a959b4d0944a99bb4040fb940b8bamv2-d-1920-2880-s-1920x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-fd6a959b4d0944a99bb4040fb940b8bamv2-d-1920-2880-s-1920x2880-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-e7bee87e71d24bdd9195fd8a2dff43b6mv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-e7bee87e71d24bdd9195fd8a2dff43b6mv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0ef1cdc5ec6f4b5285783f63175e0244mv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0ef1cdc5ec6f4b5285783f63175e0244mv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-03ba665d922a4eaab125bcdb12758f92mv2-d-1920-2880-s-1920x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-03ba665d922a4eaab125bcdb12758f92mv2-d-1920-2880-s-1920x2880-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-36adb41d898946bb868dd515b04bcfe9mv2-d-1440-2160-s-1440x2160.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-36adb41d898946bb868dd515b04bcfe9mv2-d-1440-2160-s-1440x2160-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-51eff2ea64ff4d5fa63bf29a1baff0bbmv2-d-3240-2160-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-51eff2ea64ff4d5fa63bf29a1baff0bbmv2-d-3240-2160-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-80e46ac4f3b44a2d9b29a93c78f3424cmv2-d-2880-1920-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-80e46ac4f3b44a2d9b29a93c78f3424cmv2-d-2880-1920-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-570d658a35fb4dcf94ddc97a22497ecbmv2-d-1416-2120-s-1416x2120.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-570d658a35fb4dcf94ddc97a22497ecbmv2-d-1416-2120-s-1416x2120-800x1197.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-960020ae695e46eea4a8acb1dec001f0mv2-d-2160-1440-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-960020ae695e46eea4a8acb1dec001f0mv2-d-2160-1440-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-bf1b62a3d2b24190875843c1f5dedfbamv2-d-2653-1835-s-2000x1383.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-bf1b62a3d2b24190875843c1f5dedfbamv2-d-2653-1835-s-2000x1383-800x553.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-d17e3f03c4554afc95212adbd75a9de6mv2-d-2160-1440-s-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-d17e3f03c4554afc95212adbd75a9de6mv2-d-2160-1440-s-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f0cbd9455cab46688de933a143ac70f3mv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f0cbd9455cab46688de933a143ac70f3mv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-ec269ec803f34ea3bd28e88784fb381dmv2-d-2120-1416-s-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-ec269ec803f34ea3bd28e88784fb381dmv2-d-2120-1416-s-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-5bd305aa72d04a85b81e9f1a42e34a9dmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-5bd305aa72d04a85b81e9f1a42e34a9dmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-3db31cf88d7040e1ad0790e30de8980amv2-d-4240-2832-s-4-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-3db31cf88d7040e1ad0790e30de8980amv2-d-4240-2832-s-4-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9a9e3dfaabf748b7bd728a00313d9390mv2-d-5031-3404-s-4-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9a9e3dfaabf748b7bd728a00313d9390mv2-d-5031-3404-s-4-2000x1353-800x541.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-4211ab4f6a9648dc9eda0be49d5db2e3mv2-d-4240-2832-s-4-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-4211ab4f6a9648dc9eda0be49d5db2e3mv2-d-4240-2832-s-4-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-ac8731b350fc445d872d4de0865f3374mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-ac8731b350fc445d872d4de0865f3374mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b2c30180e8ff476ab86c2dae0a341f1bmv2-d-3630-1945-s-2000x1071.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b2c30180e8ff476ab86c2dae0a341f1bmv2-d-3630-1945-s-2000x1071-800x428.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-b86f87a1f72846a3adb6ad2b34af93ebmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-b86f87a1f72846a3adb6ad2b34af93ebmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-bae495da868e4d7aaefcc3ab6b8b383cmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-bae495da868e4d7aaefcc3ab6b8b383cmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-f0491141d09a490585f0bcf2f92df6a7mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-f0491141d09a490585f0bcf2f92df6a7mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-e43b9254412848c9ac7987aadd9e7e34mv2-d-4240-2832-s-4-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-e43b9254412848c9ac7987aadd9e7e34mv2-d-4240-2832-s-4-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0b24534ed2154894b1efce1df558eb40mv2-d-4032-2362-s-2000x1171.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0b24534ed2154894b1efce1df558eb40mv2-d-4032-2362-s-2000x1171-800x468.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-8e63d64f6a264d4cb1bf72962081e623mv2-d-4000-6000-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-8e63d64f6a264d4cb1bf72962081e623mv2-d-4000-6000-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-72d8ebb652394f0f916e4a1684cf302bmv2-d-3875-5813-s-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-72d8ebb652394f0f916e4a1684cf302bmv2-d-3875-5813-s-4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-371e949b95124007a29bfc423d552dc3mv2-d-4240-2832-s-4-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-371e949b95124007a29bfc423d552dc3mv2-d-4240-2832-s-4-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-a3f8f46845c34326a73d531818a1aec1mv2-d-5274-3689-s-4-2000x1398.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-a3f8f46845c34326a73d531818a1aec1mv2-d-5274-3689-s-4-2000x1398-800x559.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-d13ebb0e14d9492e82c4e2505149a9d0mv2-d-5952-3968-s-4-1999x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-d13ebb0e14d9492e82c4e2505149a9d0mv2-d-5952-3968-s-4-1999x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-0b67d5233e1c4202bfb1d6190d1ac869mv2-d-5875-3788-s-4-2000x1289.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-0b67d5233e1c4202bfb1d6190d1ac869mv2-d-5875-3788-s-4-2000x1289-800x515.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-077f5777c2e44bb6a5ce323b0b9621e1mv2-d-3499-2227-s-2000x1272.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-077f5777c2e44bb6a5ce323b0b9621e1mv2-d-3499-2227-s-2000x1272-800x508.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-502f44678eda48e98ba54a9a9370ca0cmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-502f44678eda48e98ba54a9a9370ca0cmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-9783aff7e75f4cf59aab007432157e74mv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-9783aff7e75f4cf59aab007432157e74mv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-727b53df4b4449edb746b304a5e84225mv2-d-5894-3462-s-4-2000x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-727b53df4b4449edb746b304a5e84225mv2-d-5894-3462-s-4-2000x1174-800x469.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-df3fa7cb7e49488a916700c71d33793cmv2-d-6000-4000-s-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-df3fa7cb7e49488a916700c71d33793cmv2-d-6000-4000-s-4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Wedding Day",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/80c249-e65168e5565a438bada4578c91a743d3mv2-d-3266-2025-s-2000x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/80c249-e65168e5565a438bada4578c91a743d3mv2-d-3266-2025-s-2000x1240-800x496.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive, Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -689,7 +2387,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#7c706b",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">TALK TO US</a></li>",
@@ -704,13 +2402,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c706b"
+              "color": "#3d8eb9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c706b"
+              "background-color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#7c706b",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
@@ -733,7 +2431,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c706b",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -800,8 +2498,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: wengbaysg@gmail.com <br>\nPhone: +6012 - 351 6616<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home&nbsp;</a></li><li><a href=\"page1.html\">Portfolio</a></li><li><a href=\"page3.html\">Blog&nbsp;</a></li><li><a href=\"page2.html\">Contact Us</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "bryan_bay@hotmail.com",
@@ -834,7 +2532,13 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-f"
+          "_anchor": "contacts4-f",
+          "_styles": {
+            "UL": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -929,7 +2633,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#7c706b",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">TALK TO US</a></li>",
@@ -1040,8 +2744,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: wengbaysg@gmail.com <br>\nPhone: +6012 - 351 6616<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home&nbsp;</a></li><li><a href=\"page1.html\">Portfolio</a></li><li><a href=\"page3.html\">Blog&nbsp;</a></li><li><a href=\"page2.html\">Contact Us</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "bryan_bay@hotmail.com",
@@ -1074,7 +2778,13 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-l"
+          "_anchor": "contacts4-l",
+          "_styles": {
+            "UL": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -1298,7 +3008,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#7c706b",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page2.html\">TALK TO US</a></li>",
@@ -1496,8 +3206,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: wengbaysg@gmail.com <br>\nPhone: +6012 - 351 6616<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home&nbsp;</a></li><li><a href=\"page1.html\">Portfolio</a></li><li><a href=\"page3.html\">Blog&nbsp;</a></li><li><a href=\"page2.html\">Contact Us</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "bryan_bay@hotmail.com",
@@ -1530,7 +3240,13 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-10"
+          "_anchor": "contacts4-10",
+          "_styles": {
+            "UL": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         }
       ]
     }
